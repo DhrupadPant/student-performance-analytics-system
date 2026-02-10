@@ -2,6 +2,10 @@
 
 A Python + MySQL based system to track student academic performance, analyze trends, and identify weak areas.
 
+## Why this project exists
+This project helps analyze student performance by tracking subjects, difficulty levels, and exam scores,
+then identifying trends and weak areas to support academic improvement.
+
 ## Features
 
 - Student and teacher login system

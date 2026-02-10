@@ -30,9 +30,10 @@ Schema is included in `database.sql`.
 
 ## How to Run
 
-1. Import `database.sql` into MySQL
-2. Update database credentials in `student_analysis.py`
-3. Run:
+1. Update MySQL username, password, and database name in the connectin section before running
+2. Import `database.sql` into MySQL
+3. Update database credentials in `student_analysis.py`
+4. Run: python_studentanalysis.py
 
 ## Author
 Dhrupad Pant

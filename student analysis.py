@@ -6,7 +6,7 @@ from datetime import date
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Bolt@2009",
+    password=" ",
     database="student_analysis"
 )
 cursor = conn.cursor()
@@ -318,3 +318,4 @@ while True:
     else:
         print("Invalid choice.")
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
